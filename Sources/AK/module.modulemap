@@ -1,0 +1,6 @@
+module AK {
+    header "String.h"
+    
+    requires cplusplus
+    export *
+}
